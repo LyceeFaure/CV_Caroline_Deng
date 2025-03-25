@@ -1,0 +1,103 @@
+body    {
+background: #f0f8fc;
+width: 950px;
+font-family: sans-serif;
+font-size: 20px; 
+padding: 10px 30px;
+line-height: 24px;     
+}
+
+h1 { 
+text-decoration: underline;
+text-decoration-thickness: 2px;
+text-decoration-color: black;
+font-family: ;
+font-size: 42px;
+color: black;
+margin-right: 30%;
+width: 300px;
+border: 1px solid black;
+padding: 10px 10px 10px 10px;
+background-color: #b3a0cd;
+}
+
+h2 { 
+font-size: 34px;
+color: #3eb1de;
+padding-bottom: 10px;
+border-bottom: 1px solid #999;
+}
+
+h3 { 
+color: #6a9db1;
+padding-left: 10px;
+}
+
+p { 
+margin-left: 30px; 
+padding-left: 10px;
+}
+
+header {
+width: 100%;
+font-size: 14px;
+font-weight: bold;
+margin: 20px auto 30px auto;
+}
+
+header p { 
+font-family: 'Comic Sans MS';
+font-size: 20px;
+color: #333;
+border-left: 0; 
+margin-top: 20px;
+}
+
+header ul {
+font-size: 22px;
+font-weight: bold;
+color: #777;
+border-left: none; 
+border: solid;
+width: 340px;
+height: 140px;
+margin: 1px;
+}
+
+aside { 
+margin-right: 15px
+} 
+
+ul {
+font-family: 'Comic Sans MS';
+padding: 1px 25px 0px 50px;
+background-color: #c8c3d3;
+margin-left: 30px; 
+border-left: 1px solid #999;
+border: solid #88809b;
+width: 340px;
+height: 140px;
+margin: 1px;
+}
+
+.gris_italique {
+font-style: italic; 
+font-size: 16px; 
+font-weight: normal;
+color: #999; 
+}
+
+#photo {
+width: 300px;
+float: right;
+}
+
+#email {
+text-decoration: none;
+font-size: 22px;
+color: #546863;
+}
+
+img {
+border: solid;
+}
