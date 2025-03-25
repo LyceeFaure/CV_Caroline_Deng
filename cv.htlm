@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta charset="UTF-8" />
+    <title>CV - Caroline Deng</title>
+    <link rel="stylesheet" href="cv.css" />
+  </head>
+
+  <body>
+    <header>
+      <aside>
+        <img id="photo" src="javier.jpg"  alt="Javier Asrahan de TGED" />
+      </aside>
+
+      <h1>Caroline Deng</h1>
+
+      <a id="email" href="mailto:pilitiri123@gmail.com">pilitiri123@gmail.com</a>
+
+      <p>Titulaire d’un baccalauréat à spécialités scientifiques, je suis très fortement intéressé par les opportunités de stages liées aux métiers suivants :</p>
+      <br />
+
+      <ul>
+        <li>Argent</li>
+        <li>Facile</li>
+      </ul>
+    </header>
+
+    <section>
+      <h2>Formation</h2>
+      <h3>Bac général, préparé au Lycée Monet, à Paris</h3>
+      <p>Spécialités et option :</p>
+      <ul>
+        <li>Numérique et Science Informatique</li>
+        <li>Physique-chimie</li>
+        <li>Mathématiques</li>
+      </ul> 
+      
+      <h2>Langues</h2>
+      <h3>Cursus scolaire</h3>
+      <ul>
+        <li>
+          Chinois
+        </li>
+        <li>Anglais : <span class="gris_italique"> Lu, écrit, parlé </span> </li>
+        <li>Quelques notions d'Espagnol : <span class="gris_italique"> 383 jours sur Duolingo 🔥 </span> </li>
+      </ul> 
+
+
+      <h2>Connaissances informatiques</h2>
+      <h3>Langages de programmation</h3>
+      <p>Python, HTML, CSS</p>
+      <br />
+      <h3>Systèmes d'exploitation</h3>
+      <p>Microsoft Windows, Linux Debian, <em>Android</em></p>
+
+
+      <h2>Expériences professionnelles</h2>
+      
+        Oui
+        
+      
+
+      <h2>Loisirs</h2>
+      <ul>
+        <li><a>Dessin</a></li>
+        <li>
+          ...
+        </li>
+      </ul>  
+    </section>
+    
+    <footer>
+       
+    </footer>
+    
+  </body>
+</html>
